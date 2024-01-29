@@ -6,6 +6,8 @@ Projeto utilizado como objeto de estudo nas aulas iniciais de JavaScript e HTML.
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 #
 ### ✨ Status:
 [![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)](https://link-para-o-status-do-projeto)
