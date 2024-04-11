@@ -1,16 +1,19 @@
-# Jogo do Número Secreto - JavaScript, Oracle Next Education
-###  :page_with_curl: Sobre o projeto:
-Projeto utilizado como objeto de estudo nas aulas iniciais de JavaScript e HTML. O jogo consiste em tentar adivinhar qual é o número secreto.
-#
-### :rocket: Tecnologias:
-![HTML](https://img.shields.io/badge/HTML-5-orange?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-3-blue?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat&logo=javascript&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://github.com/jessiferreira/minhas-musicas/assets/121064773/0ea10a97-f3d3-4b83-b5b7-a784cc3d0d3e" alt="imagem-alura" width="1200px">
+</p>
 
-#
-### ✨ Status:
-[![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)](https://link-para-o-status-do-projeto)
+# ☂️ Jogo do Número Secreto
+
+Este é um projeto simples utilizado como objeto de estudo nas aulas iniciais de JavaScript e HTML. O jogo consiste em tentar adivinhar qual é o número secreto.
+
+## Funcionalidade
+* O jogador insere um número na caixa de texto e clica no botão "chutar".
+* O jogo informa se o número inserido é maior, menor ou igual ao número secreto.
+* O jogador tem um número limitado de tentativas para adivinhar o número secreto.
+
+<br>
+
+[![Generic badge](https://img.shields.io/badge/LINGUAGEM-JavaScript-c125ff.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/IDE-VSCode-c125ff.svg)](https://shields.io/)&nbsp;[![Generic badge](https://img.shields.io/badge/STATUS-Concluído-c125ff.svg)](https://shields.io/)
 
 
 
