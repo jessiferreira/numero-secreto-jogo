@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jessiferreira/minhas-musicas/assets/121064773/0ea10a97-f3d3-4b83-b5b7-a784cc3d0d3e" alt="imagem-alura" width="1200px">
+  <img src="https://github.com/jessiferreira/numero-secreto-jogo/assets/121064773/27f4f80c-430c-42b8-9dda-f4ad95cb4a49" alt="imagem-alura" width="1200px">
 </p>
 
 # ☂️ Jogo do Número Secreto
